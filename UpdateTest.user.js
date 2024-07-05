@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         UpdateTest
-// @version      1.0.0
+// @version      1.0.1
 // @description  Userscript update test
 // @author       doabletuple
 // @homepageURL  https://github.com/doabletuple/update-test
@@ -11,5 +11,5 @@
 // ==/UserScript==
 
 console.log("------------------------------------------------------------");
-console.log("1.0.0");
+console.log("1.0.1");
 console.log("------------------------------------------------------------");
